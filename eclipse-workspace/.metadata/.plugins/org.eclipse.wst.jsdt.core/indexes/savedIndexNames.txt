@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\Prito - The Love\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2972201015.index
+3160983834.index
+3035979553.index
+1504779999.index
+1737271500.index
+3306339352.index
+1357831080.index
+1050170777.index
+587894592.index
+4170537383.index

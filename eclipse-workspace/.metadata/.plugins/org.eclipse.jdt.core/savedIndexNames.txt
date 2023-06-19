@@ -1,0 +1,12 @@
+INDEX VERSION 1.132+C:\Users\Prito - The Love\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3035979553.index
+2936267709.index
+1357831080.index
+2972201015.index
+1737271500.index
+2581828263.index
+2935849019.index
+3851038263.index
+1865797976.index
+1602405131.index
+3014109333.index

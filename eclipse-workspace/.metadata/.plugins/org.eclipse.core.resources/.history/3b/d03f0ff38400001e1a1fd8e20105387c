@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class A1 {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int n = scan.nextInt();
+		int temp=n;
+		int rem=0 ;
+		while(temp!=0) {
+			rem = temp%10;
+			
+		}
+		System.out.println(rem);
+		
+		
+
+	}
+	
+
+}

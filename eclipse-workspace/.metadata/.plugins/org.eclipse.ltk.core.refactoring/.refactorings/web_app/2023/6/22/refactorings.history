@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;new_registration.html&apos; to &apos;webapp&apos;&#x0D;&#x0A;- Original project: &apos;web_app&apos;&#x0D;&#x0A;- Destination element: &apos;webapp&apos;&#x0D;&#x0A;- Original element: &apos;new_registration.html&apos;" description="Copy file" element1="src/main/webapp/new_registration.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685621555593" target="/web_app_3/src/main/webapp" units="0" version="1.0"/>
+</session>

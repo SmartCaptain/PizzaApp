@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class A1 {
+
+	public static void main(String[] args) {
+		String s = new 
+				String("ashok");
+				System.out.println(s instanceof Object);
+	}
+	
+
+}

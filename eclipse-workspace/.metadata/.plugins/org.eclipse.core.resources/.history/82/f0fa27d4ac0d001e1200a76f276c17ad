@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>Registration</h2>
+<hr>
+<form action="new" method="post">
+<pre>
+ name<input type="text" name="name"/>
+ email<input type="text" name="email"/>
+ city<input type="text" name="city"/>
+ 
+ <input type="submit" value="save"/>
+ </pre>
+</form>
+
+</body>
+</html>

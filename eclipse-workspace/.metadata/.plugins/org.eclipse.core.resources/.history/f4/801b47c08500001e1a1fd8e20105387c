@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class A1 {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int n = scan.nextInt();
+		int temp=n;
+		int rev=0 , rem ;
+		while(temp!=0) {
+			rem = temp%10;
+			rev = (rev*10)+rem;
+			temp = temp/10;
+		}
+		if(n==rev)
+		{
+			System.out.println("palindrome: " +n);
+		}
+		else {
+			System.out.println("not a palindrome: "+n);
+		}
+		
+		
+
+	}
+	
+
+}
